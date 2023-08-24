@@ -3,3 +3,5 @@ These are my solutions for the projects proposed by freecodecamp in the course o
   Arithmetic Formatter
   Budget App
   Time Calculator
+  Polygon Area Calculator	
+  Probability Calculator
